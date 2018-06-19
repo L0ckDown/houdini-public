@@ -1,7 +1,10 @@
-# Houdini (iOS 10-10.3.2 and iOS 11-11.3.1)
+# Houdini+++ (iOS 10-10.3.2 and iOS 11-11.3.1)
 
 by Abraham Masri @cheesecakeufo - exploits by (@i41nbeer)
 
+Hacked by &Glitch
+
+Original:
 [Download here](https://iabem97.github.io/houdini_website/)
 
 # How do I install this?
