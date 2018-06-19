@@ -1,0 +1,13 @@
+ .Extension
+ 
+ installer
+  user_data
+   data
+    
+ Display;
+  load()
+   or
+  exit()
+ 
+   view;
+    load()
