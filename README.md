@@ -2,7 +2,7 @@
 
 by Abraham Masri @cheesecakeufo - exploits by (@i41nbeer)
 
-Hacked by &Glitch
+Hacked by @Glitch
 
 Original:
 [Download here](https://iabem97.github.io/houdini_website/)
