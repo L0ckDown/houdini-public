@@ -7,6 +7,9 @@ Hacked by @Glitch
 Original:
 [Download here](https://iabem97.github.io/houdini_website/)
 
+# +++ features
+• More customizable options
+
 # How do I install this?
 You probably should just just go [here](http://iabem97.github.io/houdini_website) and follow the instructions.
 
